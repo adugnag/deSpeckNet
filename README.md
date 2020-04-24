@@ -1,3 +1,3 @@
-# deSpeckNet
+# deSpeckNet: Generalizing Deep Learning Based SAR Image Despeckling.
 
-A semi-supervised SAR image despeckling method based on deep learning
+This work is currently under review in IEEE TGRS. Codes will be uploaded once paper is accepted. 
