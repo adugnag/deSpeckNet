@@ -13,16 +13,8 @@ noise distribution and the despeckled image simultaneously.Since it does not dep
 
 
 # Results
-![Indonesia_images](https://user-images.githubusercontent.com/48068921/102690425-9c54b980-4205-11eb-9609-de105413c27d.png)
-![DRC_images](https://user-images.githubusercontent.com/48068921/102690426-9e1e7d00-4205-11eb-8622-c478163ece66.png)
 ![Results](https://user-images.githubusercontent.com/48068921/102690427-9fe84080-4205-11eb-88ed-ec36582d4448.png)
 
 
 
-# Citation
-@article{mullissa2020despeck,
-  title={deSpeckNet: Generalizing Deep Learning Based SAR Image Despeckling},
-  author={Mullissa, A.G., Marcos, Diego., Tuia, Devis., Herold, Martin., Reiche, Johannes.},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2020}
-}
+The articles pre-print is freely available on https://arxiv.org/pdf/2012.03066.pdf
