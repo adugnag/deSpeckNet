@@ -6,4 +6,4 @@ noise distribution and the despeckled image simultaneously.Since it does not dep
 
 # Architecture
 
-![plot](./home/adugna/Documents/Papers/5th_paper/github/drawing1.png)
+
