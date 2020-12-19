@@ -15,6 +15,4 @@ The articles pre-print is available on https://arxiv.org/pdf/2012.03066.pdf
 
 The data used in the paper will be uploaded soon.
 
-If you use these scripts please cite our paper in
-
-[Mullissa, Author A.G., Marcos, D., Tuia,D., Herold, M., Reiche, J.. "Article Title." *deSpeckNet: Generalizing Deep Learning Based SAR Image Despeckling* IEEE Transactions on Geoscience and Remote Sensing. 2020.]
+If you use these scripts please cite our paper in: Mullissa, A.G., Marcos, D., Tuia,D., Herold, M., Reiche, J.. "Article Title." *deSpeckNet: Generalizing Deep Learning Based SAR Image Despeckling* IEEE Transactions on Geoscience and Remote Sensing. 2020.
