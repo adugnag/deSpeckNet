@@ -23,7 +23,7 @@ opts.numSubBatches    = 2;
 
 % solver
 opts.solver           = 'Adam'; % global
-opts.derOutputs       = {'objective',100 ,'objective0',0 , 'objective1',1} ; %Loss weights
+opts.derOutputs       = {'objective',100 ,'objective0',0 , 'objective1',1} ; %Loss weights for Lclean, LTV and Lnoisy respectively.
 opts.backPropDepth    = Inf;
 %-------------------------------------------------------------------------
 %   Initialize model
