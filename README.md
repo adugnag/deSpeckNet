@@ -11,10 +11,4 @@ noise distribution and the despeckled image simultaneously.Since it does not dep
 ![drawing_finetune](https://user-images.githubusercontent.com/48068921/102690424-99f25f80-4205-11eb-825b-dd9887935e67.png)
 
 
-
-# Results
-![Results](https://user-images.githubusercontent.com/48068921/102690427-9fe84080-4205-11eb-88ed-ec36582d4448.png)
-
-
-
 The articles pre-print is freely available on https://arxiv.org/pdf/2012.03066.pdf
