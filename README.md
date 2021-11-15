@@ -19,7 +19,7 @@ The base models used to tune the models to the respective test images is in the 
 To train a model, run train_despecknet_DAG.m or train_despecknet_DAG_TV.m to train a model. To test a pre-trained model, please run, test_despecknet_DAG.m.
 
 ## Dependencies
-These codes requires MatconvNet to be installed and configured for GPU. Matconvnet can be downloaded and installation instructions can be found [here](https://www.vlfeat.org/matconvnet/.
+These codes requires MatconvNet to be installed and configured for GPU. Matconvnet can be downloaded and installation instructions can be found [here](https://www.vlfeat.org/matconvnet/).
 
 ## Reference
 
